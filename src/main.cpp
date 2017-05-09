@@ -25,10 +25,9 @@ SOFTWARE.
  
 #include <MKL25Z4.H>
 #include <stdlib.h>
-
 #include <string.h>
 #include "util.h"
-#include "gpio_defs_main.h"
+
 
 #define TIME 50
 using namespace std;
