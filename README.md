@@ -13,7 +13,7 @@ Specifications:
 
 Future
 ==============
-* Add a fifth button
+* Improve hardware and user controls
 * Complete the Tetris Game
 * Add other arcade games (possibly: pong, defender, ateroids, etc )
 * Design a 3D printable hard case for the gaming system.
