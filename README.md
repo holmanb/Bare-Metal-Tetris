@@ -1,5 +1,4 @@
 # LED Matrix Games
-===================
 
 This repository currently includes a tetris game that can be compiled and and loaded to the FRDM-KL25Z using Keil uVision5.
 Some assembly is required to get started, so a schematic will be coming soon.
