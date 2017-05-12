@@ -1,7 +1,7 @@
 # LED Matrix Games
 
 This repository currently includes a tetris game that can be compiled and and loaded to the FRDM-KL25Z using Keil uVision5.
-Some assembly is required to get started, so a schematic will be coming soon.
+Some assembly is required to get started, so a (better) schematic will be coming soon.
 
 Specifications:
 * Dev Board: FRDM-KL25Z                 | can be purchased from [NXP](http://www.nxp.com/products/software-and-tools/hardware-development-tools/freedom-development-boards/freedom-development-platform-for-kinetis-kl14-kl15-kl24-kl25-mcus:FRDM-KL25Z)     
